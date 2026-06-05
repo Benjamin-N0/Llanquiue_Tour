@@ -4,9 +4,9 @@
 - **Nombre completo: Benjamin Norambuena
 - **Carrera:** Analista Programador Computacional
 
-
 ## Descripción general del sistema
-El sistema permite representar empleados de una empresa turística, almacenando información personal, dirección y cargo laboral. Para ello se utilizan relaciones de herencia y composición entre las clases del proyecto.
+
+El sistema
 ---
 
 ## 🧱 Estructura general del proyecto
