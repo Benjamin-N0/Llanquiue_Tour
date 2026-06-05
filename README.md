@@ -6,7 +6,7 @@
 
 ## Descripción general del sistema
 
-El sistema
+El sistema permite representar empleados de una empresa turística, almacenando información personal, dirección y cargo laboral. Para ello se utilizan relaciones de herencia y composición entre las clases del proyecto.
 
 
 ## 🧱 Estructura general del proyecto
