@@ -7,7 +7,7 @@
 ## Descripción general del sistema
 
 El sistema
----
+
 
 ## 🧱 Estructura general del proyecto
 📁 src/
