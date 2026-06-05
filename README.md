@@ -10,6 +10,7 @@ El sistema permite representar empleados de una empresa turística, almacenando 
 
 
 ## 🧱 Estructura general del proyecto
+```plaintext
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Direccion, Empleado)
