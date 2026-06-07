@@ -1,7 +1,7 @@
 #Evaluación Sumativa 1 – Desarrollo Orientado a Objetos I
 
 ## Autor del proyecto
-- **Nombre completo: Benjamin Norambuena
+- **Nombre completo:** Benjamin Norambuena
 - **Carrera:** Analista Programador Computacional
 
 ## Descripción general del sistema
